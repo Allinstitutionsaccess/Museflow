@@ -1,0 +1,6 @@
+{
+  "name": "Magic Writing Experience",
+  "description": "An interactive, distraction-free writing studio where AI is a proactive thought partner, offering inline rewrites, feedback, and proactive suggestions without copy-pasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
